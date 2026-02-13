@@ -45,8 +45,8 @@ Actualmente hay un problema de stock/precios en Amazon.es para los kits de **32G
 ## Evidencia de Búsqueda y Análisis
 He realizado una navegación exhaustiva por Amazon.es para encontrar estas opciones. Aquí puedes ver grabaciones de los procesos de búsqueda y cómo detecté las anomalías de precio:
 
-[Búsqueda de componentes específicos](/Users/vimaco/projects/ai/PC_Build_Analysis/assets/find_optimized_links_retry_1770984208686.webp)
-[Búsqueda de alternativas a precio justo](/Users/vimaco/projects/ai/PC_Build_Analysis/assets/find_fair_priced_alternatives_1770984949712.webp)
+[Búsqueda de componentes específicos](./assets/find_optimized_links_retry_1770984208686.webp)
+[Búsqueda de alternativas a precio justo](./assets/find_fair_priced_alternatives_1770984949712.webp)
 
 ## Conclusión
 Con estos cambios, tu PC será **más rápido** (por la RAM en Dual Channel), **más fresco** (por el disipador de torre) y, sobre todo, **mucho más seguro** (por la fuente de alimentación de calidad). El presupuesto total se mantiene equilibrado para la potencia de una RTX 5060.
